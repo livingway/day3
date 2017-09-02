@@ -7,12 +7,13 @@ namespace Application
         public static void Main(string[] args)
         {
 
-            Console.WriteLine("*");
-            Console.WriteLine("**");
-            Console.WriteLine("***");
-            Console.WriteLine("****");
-            Console.WriteLine("*****");
+            //Console.WriteLine("*");
+            //Console.WriteLine("**");
+            //Console.WriteLine("***");
+            //Console.WriteLine("****");
+            //Console.WriteLine("*****");
 
+            //git test
 
 
 
@@ -24,7 +25,9 @@ namespace Application
 
 			        Console.Write("*");
 			    }
+
 			Console.WriteLine();
+
 			}
 
 
